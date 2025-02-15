@@ -10,12 +10,12 @@ last_name: Liu
 superuser: true
 
 # Role/position
-role: Assistant Professor of Microelectronics // Thrust of Microelectronics
+role: Assistant Professor of Microelectronics 
 
 
 # Organizations/Affiliations
 organizations:
-  - name: google-scholar
+  - name: Google-scholar
     url: 'https://scholar.google.com/citations?user=GNMcptMAAAAJ&hl=en'
 
 # Short bio (displayed in user profile at end of posts)
