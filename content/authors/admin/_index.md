@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xiwenliu@hkust-gz.edu.cn'
+    link: 'mailto:xiwenliu@hkust-gz.edu.cn'
   - icon: cv
     icon_pack: ai
     link: files/conference-paper.pdf
