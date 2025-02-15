@@ -43,13 +43,13 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: hb
     link: 'mailto:xiwenliu@hkust-gz.edu.cn'
   - icon: cv
-    icon_pack: ai
+    icon_pack: hb
     link: files/conference-paper.pdf
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: hb
     link: https://scholar.google.com/citations?user=GNMcptMAAAAJ&hl=en&inst=2086321694089819457
   # - icon: google-scholar
   #   icon_pack: ai
