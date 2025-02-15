@@ -49,7 +49,7 @@ social:
     icon_pack: ai
     link: files/conference-paper.pdf
   - icon: google-scholar
-    icon_pack: brands
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=GNMcptMAAAAJ&hl=en&inst=2086321694089819457
   # - icon: google-scholar
   #   icon_pack: ai
