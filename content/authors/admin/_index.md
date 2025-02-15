@@ -48,9 +48,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: files/conference-paper.pdf
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: ''
+  - icon: google-scholar
+    icon_pack: fab
+    link: 'https://scholar.google.com/citations?user=GNMcptMAAAAJ&hl=en&inst=2086321694089819457'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: ''
