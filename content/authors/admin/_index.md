@@ -45,20 +45,20 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'xiwenliu@hkust-gz.edu.cn'
-  - icon: twitter
-    icon_pack: fab
-    link: ''
-  - icon: google-scholar
-    icon_pack: ai
-    link: ''
-  - icon: github
-    icon_pack: fab
-    link: ''
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: ''
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: ''
+  # - icon: github
+  #   icon_pack: fab
+  #   link: ''
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/conference-paper.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'xiwenliu@hkust-gz.edu.cn'
@@ -74,4 +74,5 @@ user_groups:
 
 Xiwen Liu joined The Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor in 2023. In 2023, he earned his Doctor of Philosophy degree from the University of Pennsylvania's Department of Electrical and Systems Engineering in the United States and received The Sidney J. Stein Prize, previously known as The Electro-Science Laboratories Prize. Dr. Liu's research interests include microelectronic devices, novel memory technologies, design-technology co-design, and the exploration of non-conventional computing paradigms. 
 To date, he has authored and co-authored over 20 publications in important international journals and conferences, including Nature Electronics, Nano Letters, Applied Physics Letters, Cell Press Matter, and Cell Press Device, among others. His research work in the field of compute-in-memory technology has been recognized by the Bell Labs Prize 2022, and he has received the National Outstanding Self-Financed Students Scholarship for the year 2022.
+
 
