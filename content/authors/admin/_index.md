@@ -45,6 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'xiwenliu@hkust-gz.edu.cn'
+  - icon: cv
+    icon_pack: ai
+    link: files/conference-paper.pdf
   # - icon: twitter
   #   icon_pack: fab
   #   link: ''
@@ -56,9 +59,7 @@ social:
   #   link: ''
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: files/conference-paper.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'xiwenliu@hkust-gz.edu.cn'
