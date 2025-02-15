@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **AIM Research Group123** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **AIM Research Group12345** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: people
     content:
