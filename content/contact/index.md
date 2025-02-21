@@ -85,4 +85,9 @@ sections:
       spacing:
         padding: ['100px', '0', '100px', '0']
         css_class: fullscreen
+        style: |
+        .fullscreen {
+          width: 50%; /* Set width to 50% */
+          margin: 0 auto; /* Center the image */
+        }
 ---
