@@ -48,26 +48,14 @@ sections:
       columns: '1'
 
   - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: location_campus_us.jpg
+    image: 
+      filename: location_campus_us.jpg
+      focal_point: 'top'
+
   - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: location_campus.png
-          focal_point: 'top'
+    image: 
+      filename: location_campus_us.jpg
+      focal_point: 'top'
 
 
 ---
