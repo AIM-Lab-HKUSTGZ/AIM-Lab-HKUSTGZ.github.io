@@ -13,10 +13,10 @@ sections:
       email: xiwenliu@hkust-gz.edu.cn
 
       address:
-        street: Duxue road
+        street: The Hong Kong University of Science and Technology (Guangzhou), No.1 Du Xue Road
         city: Guangzhou
-        region: Guangzhou
-        postcode: '94305'
+        region: GuangDong
+        postcode: '511458'
         country: China
         country_code: CN
       coordinates:
@@ -26,7 +26,7 @@ sections:
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -37,13 +37,13 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '1'
 
