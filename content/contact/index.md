@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: 
-        In order to foster true and meaningful collaboration between the two campuses, the 1.1-sq-km Guangzhou campus is conveniently located in Nansha, south of Guangzhou and adjacent to the Qingsheng Station on the high-speed Guangzhou-Shenzhen-Hong Kong Express Rail Link. 
+        In order to foster true and meaningful collaboration between the two campuses, the 1.1-sq-km Guangzhou campus is conveniently located in Nansha, south of Guangzhou and adjacent to the Qingsheng Station on the high-speed Guangzhou-Shenzhen-Hong Kong Express Rail Link.  [How to get to campus? ](https://personal.hkust-gz.edu.cn/yeyutong/pdf/HKUSTGZ-Transportation.pdf "How to get to campus?")。
       email: xiwenliu@hkust-gz.edu.cn
 
       address:
