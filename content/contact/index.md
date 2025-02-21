@@ -61,11 +61,11 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: contain
+          size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
-      # css_class: half-width-center
+        padding: ['100px', '0', '100px', '0']
+        css_class: half-width-center
   - block: markdown
     content:
       title:
@@ -80,9 +80,9 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: contain
+          size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
-      # css_class: fullscreen
+        padding: ['100px', '0', '100px', '0']
+        css_class: fullscreen
 ---
