@@ -57,15 +57,6 @@ sections:
       background:
         image: 
           filename: location_campus_us.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['100px', '0', '100px', '0']
-        css_class: half-width-center
   - block: markdown
     content:
       title:
@@ -76,18 +67,7 @@ sections:
       background:
         image: 
           filename: location_campus.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['100px', '0', '100px', '0']
-        css_class: fullscreen
-        style: |
-        .fullscreen {
-          width: 50%; /* Set width to 50% */
-          margin: 0 auto; /* Center the image */
-        }
+          focal_point: 'top'
+
+
 ---
