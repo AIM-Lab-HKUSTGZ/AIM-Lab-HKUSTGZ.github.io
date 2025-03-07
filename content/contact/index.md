@@ -47,12 +47,12 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
+  - block: hero
     image: 
       filename: location_campus_us.jpg
       focal_point: 'top'
 
-  - block: markdown
+  - block: hero
     image: 
       filename: location_campus_us.jpg
       focal_point: 'top'
