@@ -3,7 +3,7 @@ title: Research
 
 type: landing
 sections:
-  - block: Research
+  - block: hero
     content:
       title: |
         Research

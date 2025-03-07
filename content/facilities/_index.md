@@ -4,7 +4,7 @@ title:  Facilities
 
 type: landing
 sections:
-  - block: Facilities
+  - block: hero
     content:
       title: |
         Facilities
