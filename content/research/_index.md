@@ -1,11 +1,20 @@
 ---
 title: Research
 
-# Listing view
-view: compact
+type: landing
+sections:
+  - block: Research
+    content:
+      title: |
+        Research
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **AIM Research Group** has been a center of excellence for Microelectronic research, teaching, and practice since its founding in 2016.
+  
+ 
 
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+
 ---

@@ -22,6 +22,9 @@ main:
   - name: Research
     url: research
     weight: 40
+  - name: Facilities
+    url: facilities
+    weight: 40
   - name: Contact
     url: contact
     weight: 50
